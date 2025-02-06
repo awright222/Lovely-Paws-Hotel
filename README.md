@@ -6,6 +6,8 @@
 
 This is a full-stack built with React, Redux-Toolkit, Python, PostgreSQL and AWS S3. The application features user authentication, which allows users to login, sign-up, logout, and use a demo user login for easy access. This application also includes 4 major CRUD features:
 
+![Routes](backend.png)
+
 1. Pets (and Pet's Image)
 2. Reviews
 3. Services
@@ -14,6 +16,16 @@ This is a full-stack built with React, Redux-Toolkit, Python, PostgreSQL and AWS
 The User is partially with Create and Read.
 
 The frontend was built with React, Redux-Toolkit (with normalized data), and CSS. The backend was built with Python, PostgreSQL and the AWS S3 buckets for image upload.
+
+![Landing Page](landing.png)
+![Manage Pets](managepets.png)
+![Bookings](bookings.png)
+
+
+# Find Me!
+[Portfolio](https://www.alexwrightportfolio.com/)  | [Project](https://lovely-paws-hotel-grvv.onrender.com/)  | [LinkedIn](www.linkedin.com/in/alexgwright2)  | [GitHub](https://github.com/awright222)
+
+
 
 ## Getting started
 
